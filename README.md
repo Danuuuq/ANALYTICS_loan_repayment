@@ -5,14 +5,14 @@
 
 Проект реализован в jupyter notebook, перед запуском установите следующие библиотеки:  
 `
-pip install pandas  
+pip install pandas
+`  
 `
+pip install seaborn
+`  
 `
-pip install seaborn  
-`
-`
-pip install matplotlib  
-`
+pip install matplotlib
+`  
 `
 pip install plotly
 `
